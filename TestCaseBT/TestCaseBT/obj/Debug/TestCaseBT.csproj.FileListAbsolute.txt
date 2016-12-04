@@ -1,0 +1,13 @@
+C:\Projects\TestCaseBT\TestCaseBT\bin\Debug\TestCaseBT.exe.config
+C:\Projects\TestCaseBT\TestCaseBT\bin\Debug\TestCaseBT.exe
+C:\Projects\TestCaseBT\TestCaseBT\bin\Debug\TestCaseBT.pdb
+C:\Projects\TestCaseBT\TestCaseBT\bin\Debug\System.Data.SQLite.dll
+C:\Projects\TestCaseBT\TestCaseBT\bin\Debug\System.Data.SQLite.xml
+C:\Projects\TestCaseBT\TestCaseBT\obj\Debug\TestCaseBT.AddProduct.resources
+C:\Projects\TestCaseBT\TestCaseBT\obj\Debug\TestCaseBT.Properties.Resources.resources
+C:\Projects\TestCaseBT\TestCaseBT\obj\Debug\TestCaseBT.csproj.GenerateResource.Cache
+C:\Projects\TestCaseBT\TestCaseBT\obj\Debug\TestCaseBT.exe
+C:\Projects\TestCaseBT\TestCaseBT\obj\Debug\TestCaseBT.pdb
+C:\Projects\TestCaseBT\TestCaseBT\obj\Debug\TestCaseBT.csprojResolveAssemblyReference.cache
+C:\Projects\TestCaseBT\TestCaseBT\obj\Debug\TestCaseBT.Form1.resources
+C:\Projects\TestCaseBT\TestCaseBT\obj\Debug\TestCaseBT.IndexForm.resources
