@@ -4,7 +4,7 @@
     {
         /// <summary>
         /// Требуется переменная конструктора.
-        /// </summary>/
+        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
